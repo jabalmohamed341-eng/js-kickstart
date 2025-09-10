@@ -4,7 +4,7 @@
 const prompt = require('prompt-sync')();
 
 // TODO: Get the first number from the user
-const firstNumber = Number(prompt("Enter first number: "));
+const firstNumber = Number(prompt("Enter first number: "));c
 
 // TODO: Get the second number from the user
 const secondNumber = Number(prompt("Enter second number: "));
