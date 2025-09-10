@@ -12,5 +12,6 @@ const hobby = "Your hobby here";
 
 // TODO: Build the profile sentence using string concatenation
 // Hint: Use the + operator to combine strings and variables
-
+const profileSentence = "My name is " + name + ", I am " + age + " years old and I love " + hobby + ".";
 // TODO: Print the sentence
+console.log(profileSentence);
