@@ -6,5 +6,8 @@
 // - Continues while i <= 10
 // - Increments i by 1 each time (i++)
 // - Displays each number using console.log(i)
+for (let i = 1; i <= 10; i++) {
+    console.log(i);
+}
 
-console.log("Replace this with your solution!");
+//console.log("Replace this with your solution!");

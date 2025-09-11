@@ -4,9 +4,8 @@ console.log("Waking up and getting ready for the day");
 console.log("Working on coding exercises and projects");
 console.log("Relaxing and spending time with family in the evening");
 // TODO: Write your first activity here
-console.log("Waking up and getting ready for the day"); 
+
 
 // TODO: Write your second activity here
-console.log("Working on coding exercises and projects");
+
 // TODO: Write your third activity here
-console.log("Relaxing and spending time with family in the evening");   
